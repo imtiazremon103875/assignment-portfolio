@@ -41,6 +41,44 @@ h2{
 .text_allign{
     text-align: center;
 }
+.margin-item{
+width: 40%;
+height: 20%;
+margin-left: 5px;
+margin-right: 5px;
+padding-left: 20px;
+padding-right: 20px;
+border-radius: 10px;
+font-size: medium;
+}
+
+.margin-item img{
+    width: 50%;
+
+}
+#background-colour{
+background-color: rgba(65, 150, 139, 0.521);
+}
+#background-coloured
+{
+    background-color: rgba(170, 65, 170, 0.486);
+}
     
+#background-color{
+    background-color: rgba(154, 216, 39, 0.438);
+}
+
+.text-decorationed img{
+    width: 35%;
+    padding-left: 300px;
+    padding-top: 100px;
+    
+}
+.image-backgound{
+    background-image: url(image/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 13cm;
+    ba
+}
 
 
