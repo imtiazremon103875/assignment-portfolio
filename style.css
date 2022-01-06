@@ -93,5 +93,18 @@ background-color: rgba(65, 150, 139, 0.521);
     background-size: 7cm;
     background-position: right;
 }
-
+.built-corona{
+    text-align: center !important;
+}
+.flex{
+    display: flex;
+}
+.image-size{
+    width: 50%;
+}
+.text-size img{
+    width: 30%;
+    padding-right: 0ex;
+    
+}
 
