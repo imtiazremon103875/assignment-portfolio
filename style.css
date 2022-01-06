@@ -22,6 +22,8 @@ h2{
 }
 .text-display{
     display: flex;
+    padding-top: 5vh;
+    
 }
 .text-decoration{
     width: 50%;
@@ -72,13 +74,24 @@ background-color: rgba(65, 150, 139, 0.521);
     width: 35%;
     padding-left: 300px;
     padding-top: 100px;
+    padding-right: 20px;
     
 }
 .image-backgound{
     background-image: url(image/shape-1.png);
     background-repeat: no-repeat;
     background-size: 13cm;
-    ba
+
+}
+#padding{
+
+    padding-left: 5%;
+}
+.image-backgound2{
+    background-image: url(image/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 7cm;
+    background-position: right;
 }
 
 
